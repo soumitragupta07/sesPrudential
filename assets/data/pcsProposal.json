@@ -1,0 +1,25 @@
+ {
+    "searchKey":"Proposal Number",
+    "id":700119311,
+    "result":2,
+    "processCaseSheetList":[  
+       {  
+          "activity":"Data Verification",
+          "processName":"BlueprintNB",
+          "description":"\u003ctable style\u003d\"width:100%\"\u003e\u003ctr\u003e\u003ctd\u003e\u003cfont color\u003d\"blue\"\u003eDiary Validation\u003c/font\u003e\u003c/td\u003e\u003ctd\u003e\u003cfont color\u003d\"blue\"\u003eNA\u003c/font\u003e\u003c/td\u003e\u003ctr\u003e\u003ctd\u003e\u003cfont color\u003d\"blue\"\u003eHQ Batch Validation\u003c/font\u003e\u003c/td\u003e\u003ctd\u003e\u003cfont color\u003d\"blue\"\u003eNA\u003c/font\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003e\u003cfont color\u003d\"blue\"\u003ePIV\u003c/font\u003e\u003c/td\u003e\u003ctd\u003e\u003cfont color\u003d\"blue\"\u003eOK\u003c/font\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e",
+          "searchKey":"Proposal Number",
+          "searchValue":"700119311",
+          "insertionDate":"2018-11-09 18:23:52.594",
+          "username":"System"
+       },
+       {  
+          "activity":"Data Verification",
+          "processName":"BlueprintNB",
+          "description":"PreMagnum Admin Module Result :\u003cfont color\u003d\"red\"\u003e Not-Met\u003c/font\u003e",
+          "searchKey":"Proposal Number",
+          "searchValue":"700119311",
+          "insertionDate":"2018-11-09 18:23:56.335",
+          "username":"System"
+       }
+    ]
+}

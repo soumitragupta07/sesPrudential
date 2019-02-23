@@ -1,0 +1,32 @@
+
+ [
+     {  
+	     
+		
+         "labSampleDtlsId":541,
+         "uhid":"PC-18-0000503",
+		 "agegender":"27/M",
+         "patientDetails":"Mr Amit Shinde ",
+		 "doctorDetails":"Mr Daniyal",
+		 "DOB":"31-05-1973",
+         "priorityName":"Normal",
+         "colorCode":"#0000FF",
+         "deptName":"Biochemistry",
+         "containerName":"Graduated Cylinders",
+         "sampleStatusId":null,
+         "visitType":"OP",
+         "panelCode":null,
+         "orderDateTime":1536761625050,
+         "sampleCollectionDatetime":1536762260615,
+         "testCode":"RFT ",
+         "testDesc":"Renal Function Tests",
+         "labSampleNo":"SM-0000500",
+         "sampleType":"Blood",
+		 "info":"Blood count is calclated here, sugar patient, thyroid normal"
+      }   
+	  
+
+	  
+	 
+  ]
+ 
